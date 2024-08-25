@@ -1,0 +1,34 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AWS-S3", "AWS-S3\AWS-S3.csproj", "{5E86DC92-EA9D-4A81-8E6A-6A5BA8CFA02E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AWS-Model", "AWS-Model\AWS-Model.csproj", "{F6B98B57-88DE-48AC-8DBB-7ADE109778B0}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AWS-Exportel", "AWS-Exportel\AWS-Exportel.csproj", "{4455E23F-CF4C-42DC-A668-DEC7EC6AB658}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AWS-Web", "AWS-Web\AWS-Web.csproj", "{17005AEE-5BAD-472F-854F-56CDE1DF23D1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5E86DC92-EA9D-4A81-8E6A-6A5BA8CFA02E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E86DC92-EA9D-4A81-8E6A-6A5BA8CFA02E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E86DC92-EA9D-4A81-8E6A-6A5BA8CFA02E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E86DC92-EA9D-4A81-8E6A-6A5BA8CFA02E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6B98B57-88DE-48AC-8DBB-7ADE109778B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6B98B57-88DE-48AC-8DBB-7ADE109778B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6B98B57-88DE-48AC-8DBB-7ADE109778B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6B98B57-88DE-48AC-8DBB-7ADE109778B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4455E23F-CF4C-42DC-A668-DEC7EC6AB658}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4455E23F-CF4C-42DC-A668-DEC7EC6AB658}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4455E23F-CF4C-42DC-A668-DEC7EC6AB658}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4455E23F-CF4C-42DC-A668-DEC7EC6AB658}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17005AEE-5BAD-472F-854F-56CDE1DF23D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17005AEE-5BAD-472F-854F-56CDE1DF23D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17005AEE-5BAD-472F-854F-56CDE1DF23D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17005AEE-5BAD-472F-854F-56CDE1DF23D1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
